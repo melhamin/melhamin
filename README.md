@@ -1,5 +1,5 @@
 # <img src="https://user-images.githubusercontent.com/48331678/98282820-d187ae00-1faf-11eb-9d3b-605ad3c25119.gif" width="30px">Hi, I am Elham Amin 👨‍💻
-
+<!--
 I am a software engineering student at Bilkent University. I'm passionate about tech and love to learn new things.
 
 ![GitHub followers](https://img.shields.io/github/followers/melhamin?logo=GitHub&style=for-the-badge)
@@ -24,7 +24,7 @@ Here are a few technologies I've picked up along my learning journey.
 ## 📫 Get in touch
 - LinkedIn - [Elham Amin](https://in.linkedin.com/in/melhamin)
 
-<!--
+
 **melhamin/melhamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
