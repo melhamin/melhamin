@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/48331678/98282820-d187ae00-1faf-11eb-9d3b-605ad3c25119.gif" width="30px">Hi, I am Elham Amin 👨‍💻
+# <img src="https://user-images.githubusercontent.com/48331678/98282820-d187ae00-1faf-11eb-9d3b-605ad3c25119.gif" width="30px">Hello There! 👨‍💻
 <!--
 I am a software engineering student at Bilkent University. I'm passionate about tech and love to learn new things.
 
